@@ -1,0 +1,40 @@
+* {
+  font-size: "Helvetica-Neue";
+  /* margin: 0;
+  padding: 0;
+  box-sizing: border-box; */
+}
+
+nav {
+  background: #f1f3ff;
+}
+
+#hero {
+  background: #f1f3ff;
+  
+}
+
+.car-img {
+  width: 704px;
+  height: 407px;
+}
+
+.btn-mulai {
+  padding: 8px 12px;
+}
+
+.mulai-sekarang {
+  background: #0d28a6;
+  height: 326px;
+  border-radius: 13px;
+}
+
+.arrow-right {
+  border: 1px solid rgb(235, 235, 235);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+}
+
+/* TESTIMONIAL */
